@@ -393,7 +393,8 @@ background-color: #FFFFFF;
 .pisaraServiceDetail{
 
 	font-size: 15px;
-	text-align: justify;
+	text-align:justify;
+
 	padding-top: 10px
 
 }
@@ -609,10 +610,18 @@ a {
 
 .pressImage{
 
-	height:120px;
+	height:100px;
 	width:150px;
 	text-align: center;
 }
+
+.pressImage2{
+
+	height:90px;
+	width:150px;
+	text-align: center;
+}
+
 
 
 
