@@ -394,6 +394,7 @@ background-color: #FFFFFF;
 
 	font-size: 15px;
 	text-align:justify;
+width: 250px;
 
 	padding-top: 10px
 
@@ -610,15 +611,16 @@ a {
 
 .pressImage{
 
-	height:100px;
+	height:130px;
 	width:150px;
 	text-align: center;
 }
 
 .pressImage2{
 
-	height:90px;
+	height:80px;
 	width:150px;
+	padding-top: 30px;
 	text-align: center;
 }
 
