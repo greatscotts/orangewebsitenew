@@ -71,7 +71,7 @@ html,body{
 
 	color: #333333;
 	padding: 19px 15px 15px;
-	font-family: 'BPreplay';
+	
 	-webkit-transition: all .1s ease-in-out;
 	font-size:13px;
 	text-align: right;
@@ -319,7 +319,7 @@ background-color: #FFFFFF;
 
 #pisaraName{
 
-	font-family: BPreplay;
+	
 	
 	color: #FB861D;
 	font-weight: bolder;
