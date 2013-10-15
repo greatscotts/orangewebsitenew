@@ -448,10 +448,10 @@ background-color: #FFFFFF;
 #founderWrapper{
 
 
-	width: 100%;
+	width: 95%;
 	height: 100%;
 
-	padding: 80px 30px 20px;
+	padding: 70px 30px 20px;
 	margin: auto;
 	text-align: center;
 	display: inline-block;
@@ -521,7 +521,7 @@ background-color: #FFFFFF;
 }
 
 #boardWrapper{
-	width: 100%;
+	width: 95%;
 	height: 100%;
 	margin: auto;
 	text-align: center;
