@@ -79,7 +79,7 @@
 			<li data-slide="2">PRODUCT</li>
 			
 			<li data-slide="4">PRESS</li>
-			<li> <a onclick="location.href='about.html'" target="_blank" id="bloglink">ABOUT</li><a>
+			<li> <a onclick="location.href='about'" target="_blank" id="bloglink">ABOUT</li><a>
 
 			<!--redirect to blog link-->
 			<li> <a onclick="location.href='http://blog.orangeapps.ph/'"  >NEWS</li><a>
