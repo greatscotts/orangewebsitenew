@@ -79,11 +79,11 @@
 			<li data-slide="2">PRODUCT</li>
 			
 			<li data-slide="4">PRESS</li>
-			<li> <a onclick="location.href='about.html.erb'" target="_blank" id="bloglink">ABOUT</li><a>
+			<li> <a onclick="location.href='about.php'" target="_blank" id="bloglink">ABOUT</li><a>
 
 			<!--redirect to blog link-->
 			<li> <a onclick="location.href='http://blog.orangeapps.ph/'"  >NEWS</li><a>
-				<li> <a onclick="location.href='contact.html'"  >CONTACT US</li><a>
+				<li> <a onclick="location.href='contact.php'"  >CONTACT US</li><a>
 			</ul>
 	</div>
 </header>
