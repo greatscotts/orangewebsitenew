@@ -80,7 +80,7 @@
 			</div>
 
 			<!--every slide contains down button for next page-->
-			
+			<!--every slide contains down button for next page-->
 		</div>
 
 
