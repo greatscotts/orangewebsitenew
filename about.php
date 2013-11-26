@@ -98,7 +98,7 @@
 				<div class=" founderNameForte">
 					<img class="founderPic" src="images/b1.png"><br/><br/>
 					<span class="founderName"> Gian Javelona&nbsp;  20 </span> <br/>
-					<span class="founderForte">Visionary</span><br/>
+					<span class="founderForte">CEO</span><br/>
 					<span class="founderForte">Sales & Marketing</span><br/><br/>
 				</div>
 				
@@ -205,11 +205,10 @@
 
 				<div id="founderGian" class="founderBox">
 				<div class=" founderNameForte">
-					<img class="founderPic" src="images/b8.png"><br/><br/>
+					<img class="founderPic" src="images/b9.png"><br/><br/>
 					<span class="founderName">Reymar Garcia&nbsp;  19 </span> <br/>
 					<span class="founderForte">Intern</span><br/>
 					<span class="founderForte">Web Dev</span><br/><br/>
-				</div>
 				
 			</div>
 
@@ -220,7 +219,7 @@
 
 				<div id="founderGian" class="founderBox">
 				<div class=" founderNameForte">
-					<img class="founderPic" src="images/b9.png"><br/><br/>
+					<img class="founderPic" src="images/b8.png"><br/><br/>
 					<span class="founderName">Jerson Boringot&nbsp; 19   </span> <br/>
 					<span class="founderForte">Intern</span><br/>
 					<span class="founderForte">Graphics</span><br/><br/>
