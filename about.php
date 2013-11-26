@@ -108,7 +108,7 @@
 				<div class=" founderNameForte">
 					<img class="founderPic" src="images/b2.png"><br/><br/>
 					<span class="founderName">Sonny Gob&nbsp;  33</span> <br/>
-					<span class="founderForte">Co Visionary</span><br/>
+					<span class="founderForte">Hacker</span><br/>
 					<span class="founderForte">Microsoft Stack</span><br/>
 				</div>
 				
