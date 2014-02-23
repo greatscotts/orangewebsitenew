@@ -108,7 +108,7 @@
 <!--=======================================================================WHAT WE DO=========================================================================-->
 	<div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="1">
 
-		<div id="pisaraMessage">Introducing the <span id="pisaraName">Pisara</span> Platform</div>
+		<div id="pisaraMessage">The <span id="pisaraName">Pisara</span> Platform for schools</div>
 		<div id="pisaraBoxWrapper">
 			
 			<!-- Tech Consulting-->
