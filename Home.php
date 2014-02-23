@@ -79,11 +79,11 @@
 			<li data-slide="2">PRODUCT</li>
 			
 			<li data-slide="4">PRESS</li>
-			<li> <a onclick="location.href='about.php'" target="_blank" id="bloglink">ABOUT</li><a>
+			<li> <a onclick="location.href='about.html'" target="_blank" id="bloglink">ABOUT</li><a>
 
 			<!--redirect to blog link-->
 			<li> <a onclick="location.href='http://blog.orangeapps.ph/'"  >NEWS</li><a>
-				<li> <a onclick="location.href='contact.php'"  >CONTACT US</li><a>
+				<li> <a onclick="location.href='contact.html'"  >CONTACT US</li><a>
 			</ul>
 	</div>
 </header>
@@ -92,23 +92,23 @@
 			
 			<div id="homeText">
 				<p id="homeTextHeader">
-					Better tools. <br/>
-					Better schools. <br/>
-				</p>
+					Introducing <br/>
+					Khawna <br/>
+				</p><Br>
 				<p id="homeTextBody">
-					Our mission is to create the School-of-the-Future today. By providing schools in the Philippines with the best suite of school management software, everyone in the educational community in the country can focus on what they do best – teaching and learning from each other.
+					OrangeApps Inc. launches its new product Khawna! It is a learning platform were you could learn the skills that are needed in the industry. Khawna bridges the gap of learning and making education available to any people around the world. 
 
 				</p>
 			</br>
 				
-</p>			<form action="mailto:info@orangeapps.ph"><input type="submit" value="Signup Now" class="orange-flat-button"></form>
+</p>			<a href="http://www.khawna.com/" target="_blank"><input type="submit" value="Signup Now" class="orange-flat-button"></form><a>
 			</div>
 			<!--every slide contains down button for next page-->
 		</div>
 <!--=======================================================================WHAT WE DO=========================================================================-->
 	<div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="1">
 
-		<div id="pisaraMessage">Introducing the <span id="pisaraName">Pisara</span> Platform</div>
+		<div id="pisaraMessage"> <span id="pisaraName">Pisara</span> Platform</div>
 
 		<div id="pisaraBoxWrapper">
 			
