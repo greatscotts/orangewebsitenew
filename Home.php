@@ -96,7 +96,7 @@
 					Khawna <br/>
 				</p><Br>
 				<p id="homeTextBody">
-					OrangeApps Inc. launches its new product Khawna! It is a learning platform were you could learn the skills that are needed in the industry. Khawna bridges the gap of learning and making education available to any people around the world. 
+					OrangeApps Inc. launches its new product Khawna! It is a learning platform where you could learn the skills that are needed in the industry. Khawna bridges the gap of learning and making education available to any people around the world. 
 
 				</p>
 			</br>
