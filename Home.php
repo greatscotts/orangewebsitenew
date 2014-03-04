@@ -75,7 +75,7 @@
 
 		<!--Header Contents (aligned right): Home, What We Do, Who We Are, press, contact Us, Blog-->
 		<ul class="navigation">
-			<li data-slide="1">HOME</li>
+			<li data-slide="1">HOMES</li>
 			<li data-slide="2">PRODUCT</li>
 			
 			<li data-slide="4">PRESS</li>
