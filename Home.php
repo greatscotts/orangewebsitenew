@@ -75,7 +75,7 @@
 
 		<!--Header Contents (aligned right): Home, What We Do, Who We Are, press, contact Us, Blog-->
 		<ul class="navigation">
-			<li data-slide="1">HOME</li>
+			<li data-slide="1">HOMES</li>
 			<li data-slide="2">PRODUCT</li>
 			
 			<li data-slide="4">PRESS</li>
@@ -108,7 +108,8 @@
 <!--=======================================================================WHAT WE DO=========================================================================-->
 	<div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="1">
 
-		<div id="pisaraMessage">The <span id="pisaraName">Pisara</span> Platform for schools</div>
+		<div id="pisaraMessage"> <span id="pisaraName">Pisara</span> Platform</div>
+
 		<div id="pisaraBoxWrapper">
 			
 			<!-- Tech Consulting-->
@@ -235,7 +236,7 @@
 				
 				<!--techinasia-->
 				<div class="pressBox">
-					<a href="http://www.techinasia.com/gian-scottie-javelona-philippines-teen-developer-sensation/" target="_blank">
+					<a href="http://www.techinasia.com/khawna-brings-education-traditional-classrooms/" target="_blank">
 					<img class="pressImage2" src="images/press/sge.png">
 				
 				</div>
@@ -253,7 +254,27 @@
 					<img class="pressImage" src="images/press/juan.png">
 					
 					</div>
+
+					<!--Juan Great Leap-->
+				<div class="pressBox">
+					<a href="http://www.rappler.com/business/170-features/51903-executive-edge-20-year-old-filipino-ceo" target="_blank">
+					<img class="pressImage" src="images/press/rappler_logo.jpg">
+					
+					</div>
+					<br>
+
+					<div class="pressBox">
+					<a href="http://foundersgrid.com/education-apps-philippines" target="_blank">
+					<img class="pressImage" src="images/press/founders.png">
+					
+					</div>
+
+				<!--techinasia-->
+				<div class="pressBox">
+					<a href="http://www.techinasia.com/gian-scottie-javelona-philippines-teen-developer-sensation/" target="_blank">
+					<img class="pressImage2" src="images/press/logo_sge.png">
 				
+				</div>
 				
 				<!--_People's Television-->
 				<div class="pressBox">
@@ -264,6 +285,9 @@
 		</div>
 
 	</div>
+
+<br>
+<br><br><br><br><br><br>
 
 
 <!--=======================================================================contact US==========================================================================-->
