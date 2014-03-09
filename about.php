@@ -10,7 +10,7 @@
     \/
   ------
  /      \
-|        |	Orange Apps, 2013
+|        |	Oranges Apps, 2013
  \	    /
   ------
 	
@@ -108,7 +108,7 @@
 				<div class=" founderNameForte">
 					<img class="founderPic" src="images/b2.png"><br/><br/>
 					<span class="founderName">Sonny Gob&nbsp;  33</span> <br/>
-					<span class="founderForte">Hacker</span><br/>
+					<span class="founderForte">Co Visionary</span><br/>
 					<span class="founderForte">Microsoft Stack</span><br/>
 				</div>
 				
@@ -333,15 +333,19 @@
 					<center><img src="images/part.png">
 					
 			
-				
+			
 			</div>
 			</div>
-		</div>
+	
 
 	</div>
 
 
 <!--=======================================================================contact US==========================================================================-->
+	<div id="pisaraMessage">Community <span id="pisaraName">Partners</span></div>
+
+				<center><img src="images/geek.jpg"><center><img src="images/logo.png">
+					<br><br><br>
 
 <div class="slide" id="slideabout11" data-slide="1" data-stellar-background-ratio="2">
 </div>
