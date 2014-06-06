@@ -49,9 +49,7 @@
 		<!--Header Contents (aligned right): Home, What We Do, Who We Are, press, contact Us, Blog-->
 		<ul class="navigation">
 			<li> <a onclick="location.href='index.html'" target="_blank" id="bloglink">HOME</li><a>
-			<li> <a onclick="location.href='index.html'" target="_blank" id="bloglink">PRODUCT</li><a>
-			
-			<li> <a onclick="location.href='index.html'" target="_blank" id="bloglink">PRESS</li><a>
+		
 			<li> <a onclick="location.href='about.php'" target="_blank" id="bloglink">ABOUT</li><a>
 
 			<!--redirect to blog link-->
