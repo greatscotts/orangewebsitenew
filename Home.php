@@ -299,31 +299,7 @@
 
 <!--=======================================================================contact US==========================================================================-->
 
-	<div class="slides" id="slide6" data-slide="6" data-stellar-background-ratio="2">
-		<br>
-	</br>
-	</br>
-
-	<center>
-											<a href="home.html">
-	        			<img src="images/foo3.png" /></a>&nbsp;&nbsp;
-<a href="about.html" title="Scroll Top">
-	        			<img src="images/foo1.png" /></a> &nbsp;
-
-
-<a href="http://blog.orangeapps.ph/" target="_blank" >
-	        			<img src="images/foo4.png" /></a>&nbsp;&nbsp;
-
-<a href="contact.html" >
-	        			<img src="images/foo6.png" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/pages/OrangeApps/143345072475481"  >
-	        			<img src="images/foo7.png" /></a>
 	
-					<br>			<br>				
-<Center><img  src="images/fo1.png"></center>
-	<a class="button" data-slide="1" title=""></a>
-			</div>
-		
 
 
 
