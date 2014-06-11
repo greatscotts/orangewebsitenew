@@ -108,19 +108,7 @@
  </div>
  </div>
 
-           </center>
-
-    </div></div>
-
-          </div></div>
-
-        </div>
-     <div id="work" class="section white">
-      <div class="fixed-container">
-        <div class="content">
         
-       
-      
 
     <div class="footer">
       <div class="fixed-container">
