@@ -99,39 +99,7 @@
  <div class="panel panel-default" style="width: 600px">
      <div class="panel-body">
          <h1>We're excited to hear from you</h1>
-    <p>Mobile#:(+63)9394741244<br/>
-       Email:info@khawna.com</p>
-         <br>
- @if(IsPost){
-        //send mail
-        var name= Request["customerName"];
-        var email = Request["customerEmail"];
-        var subject = Request["subject"];
-        var message = Request["message"];
-
-        WebMail.Send("info@khawna.com",subject,message,email);
-        <p>Thank you for your interest in KHAWNA. We will get back to you ASAP regarding your request.</p>
-    }else{
-      
-
-
-<form method="post">
-         <div class="form-group">
-          <p>
-           <input type="text" name="customerName" placeholder="Name" class="form-control"/><br/>
-           <input type="text" name="customerEmail" placeholder="Email" class="form-control"/><br/>
-           <input type="text" name="subject" placeholder="Subject" class="form-control"/><br/>
-           <textarea name="message"  rows="10" placeholder="Message" class="form-control"></textarea><br/>
-           <button type="submit" class="btn btn-warning">Send Mail</button>       
-          </p>   
-         </div>
-         </form>    
-    
-}
-        </div><!--end col-->
-</div><!--end row-->
-</div>
-</center>
+   
 
 
            </center>
