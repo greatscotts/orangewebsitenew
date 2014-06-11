@@ -100,10 +100,11 @@
      <div class="panel-body">
          <h1>We're excited to hear from you</h1>
 
-         <h2>Email us : info@orangeapps.ph</h2>
-         <h2>Contact us : 0939-474-1244 </h2>
+         <h3>Email us : info@orangeapps.ph</h2>
+         <h3>Contact us : 0939-474-1244 </h2>
    </div>
 
+ </div>
 
            </center>
 
