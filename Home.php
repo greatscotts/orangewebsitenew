@@ -70,19 +70,19 @@
 
 		<!--logo aligned left-->
 		<div id="headerLogo">
-			<li><a onclick="location.href='index.html'" target="_blank" id="bloglink"><img src="images/headerlogo.png" id="headerLogoImage"></li><a>
+			<li><a onclick="location.href='Home.php'" target="_blank" id="bloglink"><img src="images/headerlogo.png" id="headerLogoImage"></li><a>
 		</div>
 
 		<!--Header Contents (aligned right): Home, What We Do, Who We Are, press, contact Us, Blog-->
 		<ul class="navigation">
-			<li data-slide="1">HOMES</li>
+			<li data-slide="1">HOME</li>
 		
 			<li><a  href="Home.php">Home</a></li>
 			<li><a onclick="location.href='press.html'" target="_blank" id="bloglink">PRESS</li>
 			<li> <a onclick="location.href='about.html'" target="_blank" id="bloglink">ABOUT</li><a>
 
 			<!--redirect to blog link-->
-			<li> <a onclick="location.href='http://blog.orangeapps.ph/'"  >NEWS</li><a>
+			<li> <a onclick="location.href='http://blog.orangeapps.ph/'" target="_blank" id="bloglink"  >NEWS</li><a>
 				<li> <a onclick="location.href='contact.php'"  >CONTACT US</li><a>
 			</ul>
 	</div>
