@@ -101,7 +101,7 @@
 				</p>
 			</br>
 				
-</p>			<a href="http://www.khawna.com/" target="_blank"><input type="submit" value="Signup Now" class="orange-flat-button"></form><a>
+</p>			<a href="http://www.khawna.com/" target="_blank"><input type="submit" value="Check it now" class="orange-flat-button"></form><a>
 			</div>
 			<!--every slide contains down button for next page-->
 		</div>
