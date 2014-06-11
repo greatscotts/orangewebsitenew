@@ -110,22 +110,24 @@
 
         
 
+   
     <div class="footer">
       <div class="fixed-container">
         <hr> <br> <br> <br>
           <div class="row">
           <div class="empty col-md-2 col-sm-2 col-xs-12"></div>
           <div class="col-md-3 col-sm-3 col-xs-12">
-            <h3><font color="#FB861D">Home</font></h3>
+            <font color="#FB861D"><a href="home.php">Home</font>
 
             <ul>
+              
           
-              <li><a href="#">Courses</a></li>
-              <li><a href="#">Press</a></li>  
-                <li><a href="blog.orangeapps.ph">News</a></li>  
-              <li><a href="#">About</a></li>   
-              <li><a href="#">Contact</a></li>               
+            <li> <a onclick="location.href='http://blog.orangeapps.ph/'" target="_blank" id="bloglink"  >News</li><a>
+              <li><a href="press.html">Press</a></li>  
+              <li><a href="about.html">About</a></li>   
+              <li><a href="contact.html">Contact</a></li>               
             </ul>
+
 
             <div class="clearfix"></div>
           </div>
