@@ -33,7 +33,7 @@
       <div class="fixed-container">      
     
         <div class="navbar-header">   
-          <a class="navbar-brand" href="#home"><img src="images/headerlogo2.png" ></a>
+          <a class="navbar-brand" href="home.php"><img src="images/headerlogo2.png" ></a>
         </div>
         
         <div class="collapse navbar-collapse"><!--nav-bar collaps start-->
@@ -119,10 +119,10 @@
             <h3><font color="#FB861D">Home</font></h3>
 
             <ul>
-              <li><a href="#">Enterprise</a></li>
-              <li><a href="#">Teach</a></li>
+          
               <li><a href="#">Courses</a></li>
               <li><a href="#">Press</a></li>  
+                <li><a href="blog.orangeapps.ph">News</a></li>  
               <li><a href="#">About</a></li>   
               <li><a href="#">Contact</a></li>               
             </ul>
