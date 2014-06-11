@@ -99,7 +99,10 @@
  <div class="panel panel-default" style="width: 600px">
      <div class="panel-body">
          <h1>We're excited to hear from you</h1>
-   
+
+         <h2>Email us : info@orangeapps.ph</h2>
+         <h2>Contact us : 0939-474-1244 </h2>
+   </div>
 
 
            </center>
