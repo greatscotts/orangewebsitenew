@@ -38,12 +38,14 @@
         
         <div class="collapse navbar-collapse"><!--nav-bar collaps start-->
           <ul class="nav navbar-nav">
-            <li><a href="#">Enterprise</a></li>
-            <li><a  href="teach.html" >Teach</a></li>
-            <li><a href="#">Courses</a></li>
-           <li><a  href="press.html">Press</a></li>
-            <li><a  href="about.html"  id="bloglink">About</a></li>
-           <li><a href="contact.php"  id="bloglink">Contact</a></li>
+           
+      <li><a onclick="location.href='Home.php'" target="_blank" id="bloglink">HOME</li>
+      <li><a onclick="location.href='press.html'" target="_blank" id="bloglink">PRESS</li>
+      <li> <a onclick="location.href='about.html'" target="_blank" id="bloglink">ABOUT</li><a>
+
+      <!--redirect to blog link-->
+      <li> <a onclick="location.href='http://blog.orangeapps.ph/'" target="_blank" id="bloglink"  >NEWS</li><a>
+        <li> <a onclick="location.href='contact.php'"  >CONTACT US</li><a>
           </ul>
           </div>
       </div>
