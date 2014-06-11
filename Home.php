@@ -76,12 +76,14 @@
 		<!--Header Contents (aligned right): Home, What We Do, Who We Are, press, contact Us, Blog-->
 		<ul class="navigation">
 			<li data-slide="1">HOMES</li>
-		
+			<li data-slide="2">PRODUCT</li>
+			
+			<li><a onclick="location.href='press.html'" target="_blank" id="bloglink">PRESS</li>
 			<li> <a onclick="location.href='about.html'" target="_blank" id="bloglink">ABOUT</li><a>
 
 			<!--redirect to blog link-->
 			<li> <a onclick="location.href='http://blog.orangeapps.ph/'"  >NEWS</li><a>
-				<li> <a onclick="location.href='contact.html'"  >CONTACT US</li><a>
+				<li> <a onclick="location.href='contact.php'"  >CONTACT US</li><a>
 			</ul>
 	</div>
 </header>
@@ -103,14 +105,14 @@
 			</div>
 			<!--every slide contains down button for next page-->
 		</div>
-<!--=======================================================================WHAT WE DO=========================================================================
+<!--=======================================================================WHAT WE DO=========================================================================-->
 	<div class="slide" id="slide2" data-slide="2" data-stellar-background-ratio="1">
 
 		<div id="pisaraMessage"> <span id="pisaraName">Pisara</span> Platform</div>
 
 		<div id="pisaraBoxWrapper">
 			
-			<!-- Tech Consulting--
+			<!-- Tech Consulting-->
 			<div class="pisaraServiceBox">
 				<div class="pisaraBoxImage"><img src="images/f1.png"></div>
 				<div class="pisaraServiceTitle">Tech Consulting </div>
@@ -118,7 +120,7 @@
 					It all starts with your needs. We offer consulting services to fully understand existing problems in your school and to recommend how pisara can help your school be technology-enabled.
 				</div>
 			</div>
-			<!-- Data Integration--
+			<!-- Data Integration-->
 			<div class="pisaraServiceBox">
 				<div class="pisaraBoxImage"><img src="images/f2.png"></div>
 				<div class="pisaraServiceTitle">Data Integration </div>
@@ -126,7 +128,7 @@
 					Harness the potential of our technology by onboarding your school data. pisara ensures the security, governance and integration of your data.
 				</div>
 			</div>
-			<!-- End to End Development--
+			<!-- End to End Development-->
 			<div class="pisaraServiceBox">
 				<div class="pisaraBoxImage"><img src="images/f3.png"></div>
 				<div class="pisaraServiceTitle">End to End Development
@@ -139,7 +141,7 @@
 		</div>
 
 	</div>
-<!--=======================================================================WHO WE ARE========================================================================--
+<!--=======================================================================WHO WE ARE========================================================================-->
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
 			<div id="pisaraMessage">Next Generation School Management<br> Information system </div>
@@ -147,7 +149,7 @@
 
 		<div id="pisaraBoxWrapper">
 			
-			<!-- Tech Consulting--
+			<!-- Tech Consulting-->
 			<div class="pisaraServiceBox">
 				<div class="pisaraBoxImage"><img src="images/dt1.png"></div>
 				<div class="pisaraServiceTitle">Enrollment </div>
@@ -156,7 +158,7 @@
 				</div>
 			</div>
 
-			<!-- Data Integration--
+			<!-- Data Integration-->
 			<div class="pisaraServiceBox">
 				<div class="pisaraBoxImage"><img src="images/dt2.png"></div>
 				<div class="pisaraServiceTitle">Grades </div>
@@ -164,7 +166,7 @@
 				</div>
 			</div>
 
-			<!-- End to End Development--
+			<!-- End to End Development-->
 			<div class="pisaraServiceBox">
 				<div class="pisaraBoxImage"><img src="images/dt3.png"></div>
 				<div class="pisaraServiceTitle">Performance
@@ -181,7 +183,7 @@
 			</div>
 		
 	
-<!--=======================================================================press============================================================================--
+<!--=======================================================================press============================================================================-->
 
 <div id="pisaraMessage">We are featured in</div>
 
@@ -189,34 +191,34 @@
 		<div id="pressWrapper">
 			<div id="pressRow1">
 				
-				<!--TV5--
+				<!--TV5-->
 				<div class="pressBox">
 					<a href="http://www.youtube.com/watch?v=Gkq5ec7Hyc4" target="_blank">
 					<img class="pressImage" src="images/press/tv5.png">
 					
 				</div>
 				
-				<!--ABS-CBN--
+				<!--ABS-CBN-->
 				<div class="pressBox">
 					<a href="http://vimeo.com/76043155" target="_blank">
 					<img class="pressImage" src="images/press/abs.png">
 					
 				</div>
-				<!--Manila Bulletin--
+				<!--Manila Bulletin-->
 				<div class="pressBox">
 					<a href="http://ph.news.yahoo.com/top-15-newsmakers-043356689.html" target="_blank">
 					<img class="pressImage" src="images/press/mla.png">
 					
 				</div>
 				
-				<!--SMART--
+				<!--SMART-->
 				<div class="pressBox">
 					<a href="http://www.youtube.com/watch?v=-vY2Ej-9Jfk" target="_blank">
 					<img class="pressImage" src="images/press/smart.jpg">
 					
 				</div>
 				
-				<!--Entrepreneur Mag--
+				<!--Entrepreneur Mag-->
 				<div class="pressBox">
 					<a href="https://www.facebook.com/photo.php?fbid=253650841444903&set=a.144356122374376.35052.143345072475481&type=1&relevant_count=1" target="_blank">
 					<img class="pressImage" src="images/press/ent.png">
@@ -226,34 +228,34 @@
 			<br/>
 			<div id="pressRow2">
 				
-				<!--E27--
+				<!--E27-->
 				<div class="pressBox">
 					<a href="http://e27.co/2013/03/27/orange-apps-co-founder-gian-javelona-on-getting-an-early-start-with-entrepreneurship/" target="_blank">
 					<img class="pressImage" src="images/press/e27.jpg">
 									</div>
 				
-				<!--techinasia--
+				<!--techinasia-->
 				<div class="pressBox">
 					<a href="http://www.techinasia.com/khawna-brings-education-traditional-classrooms/" target="_blank">
 					<img class="pressImage2" src="images/press/sge.png">
 				
 				</div>
 				
-				<!--Yahoo Singapore--
+				<!--Yahoo Singapore-->
 				<div class="pressBox">
 					<a href="http://ph.news.yahoo.com/young-app-rentice-054312760.html" target="_blank">
 					<img class="pressImage" src="images/press/yahoo.png">
 					
 				</div>
 				
-				<!--Juan Great Leap--
+				<!--Juan Great Leap-->
 				<div class="pressBox">
 					<a href="http://juangreatleap.com/2012/10/25/wunderkind/" target="_blank">
 					<img class="pressImage" src="images/press/juan.png">
 					
 					</div>
 
-					<!--Juan Great Leap--
+					<!--Juan Great Leap-->
 				<div class="pressBox">
 					<a href="http://www.rappler.com/business/170-features/51903-executive-edge-20-year-old-filipino-ceo" target="_blank">
 					<img class="pressImage" src="images/press/rappler_logo.jpg">
@@ -267,14 +269,14 @@
 					
 					</div>
 
-				<!--techinasia--
+				<!--techinasia-->
 				<div class="pressBox">
 					<a href="http://www.techinasia.com/gian-scottie-javelona-philippines-teen-developer-sensation/" target="_blank">
 					<img class="pressImage2" src="images/press/logo_sge.png">
 				
 				</div>
 				
-				<!--_People's Television--
+				<!--_People's Television-->
 				<div class="pressBox">
 					<a href="http://www.youtube.com/watch?v=PsRluubHDGk" target="_blank">
 					<img class="pressImage" src="images/press/pt.png">
@@ -288,7 +290,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<!--=======================================================================contact US==========================================================================--
+<!--=======================================================================contact US==========================================================================-->
 
 
 <div class="slide" id="slide7" data-slide="1" data-stellar-background-ratio="2">
@@ -297,7 +299,31 @@
 
 <!--=======================================================================contact US==========================================================================-->
 
+	<div class="slides" id="slide6" data-slide="6" data-stellar-background-ratio="2">
+		<br>
+	</br>
+	</br>
+
+	<center>
+											<a href="home.html">
+	        			<img src="images/foo3.png" /></a>&nbsp;&nbsp;
+<a href="about.html" title="Scroll Top">
+	        			<img src="images/foo1.png" /></a> &nbsp;
+
+
+<a href="http://blog.orangeapps.ph/" target="_blank" >
+	        			<img src="images/foo4.png" /></a>&nbsp;&nbsp;
+
+<a href="contact.html" >
+	        			<img src="images/foo6.png" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pages/OrangeApps/143345072475481"  >
+	        			<img src="images/foo7.png" /></a>
 	
+					<br>			<br>				
+<Center><img  src="images/fo1.png"></center>
+	<a class="button" data-slide="1" title=""></a>
+			</div>
+		
 
 
 

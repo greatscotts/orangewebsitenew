@@ -1,0 +1,15 @@
+.picture {
+  margin:0 auto;
+  width:230px;
+  height:230px;
+  background:#fff;
+  border:8px solid #eee;
+  box-shadow:inset (0px 2px 12px rgba(50,50,50,.6));
+   background: url('http://i.imgur.com/hKyR9Uc.jpg');
+  background-size: cover;
+  transition:2s;
+  border-radius:50%;
+  &:hover {
+    border-radius:0;
+  }
+}

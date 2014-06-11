@@ -1,133 +1,211 @@
 <!DOCTYPE HTML>
+<html class=" js no-touch" lang="en" xmlns:fb="http://ogp.me/ns/fb#" style=""><head>
+    <title>OrangeApps</title>
+    <meta name="google-site-verification" content="wHcDNdCddtPxcQ6htPICuaa8yruncoyVS9AhD8pxXg0" />
+    <link rel="image_src" href="http://www.orangeapps.ph/images/headerlogo.png">
+    <meta charset="utf-8">
 
-<html>
-<head>
-<meta charset="utf-8">
-<title>Orange Apps Inc.</title>
+	<meta name="description" content="OrangeApps Inc believes that Putting educational technology in todays generation will not just define the future of this country, but the WORLD">
+   
+	<link rel="shortcut icon" href="images/favicon.ico">
 
-<!--
+    <meta property="og:title" content="Khawna - It starts with you!">
+    <meta property="og:url" content="http://www.khawna.com">
+    <meta property="og:type" content="website">
+
+    <!-- Bootstrap core CSS -->
+    <link href="newcss/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
     
-    \/
-  ------
- /      \
-|        |	Orange Apps, 2013
- \	    /
-  ------
+    <!-- Raleway Font -->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:300' rel='stylesheet' type='text/css'>
+        
+    <!-- Stylesheet -->
+    <link href="newcss/style.css" rel="stylesheet">
+
+	<!-- ROUND -->
+	<link href="newcss/round.css" rel="stylesheet">
+    <link rel="stylesheet" href="newcss/fade.css">
+  </head>
+
+ <body data-spy="scroll" data-target="#navbar" data-offset="70">
+    <div id="navbar" class="navbar navbar-inverse">
+      <div class="fixed-container">      
+    
+        <div class="navbar-header">   
+          <a class="navbar-brand" href="#home"><img src="images/headerlogo2.png" ></a>
+        </div>
+        
+        <div class="collapse navbar-collapse"><!--nav-bar collaps start-->
+          <ul class="nav navbar-nav">
+            <li><a href="#">Enterprise</a></li>
+            <li><a  href="teach.html" >Teach</a></li>
+            <li><a href="#">Courses</a></li>
+           <li><a  href="press.html">Press</a></li>
+            <li><a  href="about.html"  id="bloglink">About</a></li>
+           <li><a href="contact.php"  id="bloglink">Contact</a></li>
+          </ul>
+          </div>
+      </div>
+    </div>
+
+
+
+    
+    <!-- Features Section -->
+  <div id="home" class="section welcome">
+      <img class="background" src="img/contactbg.jpg" alt="stream blurred">
+     
+         
+      
+
+        <br>     <br>     <br><br><br><br><br>
+
+      &nbsp;  &nbsp; &nbsp;<img src="img/contactbg2.png" />
+    
+ 
+
+
 	
--->
-
-<!--stylesheet-->
-
-<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.3.0/build/cssreset/reset-min.css">
-<link rel="stylesheet" type="text/css" href="css/style.css">
-
-<!--scripts-->
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<!--contains parallax transitions-->
-<script type="text/javascript" src="js/js.js"></script>
-
-<script type="text/javascript" src="js/jquery.stellar.min.js"></script>
-<script type="text/javascript" src="js/waypoints.min.js"></script>
-<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-
-</head>
-
-<body>
-
-<!--=======================================================================HEADER============================================================================-->
-<!--based on slide-based parallax-->
-
-<header id="ha-header" class="ha-header ha-header-large">
-	<div id="header">
-
-		<!--logo aligned left-->
-		<div id="headerLogo">
-			<li><a onclick="location.href='index.html'" target="_blank" id="bloglink"><img src="images/headerlogo.png" id="headerLogoImage"></li><a>
-		</div>
-
-		<!--Header Contents (aligned right): Home, What We Do, Who We Are, press, contact Us, Blog-->
-		<ul class="navigation">
-			<li> <a onclick="location.href='index.html'" target="_blank" id="bloglink">HOME</li><a>
-			
-				<li> <a onclick="location.href='about.php'"  >ABOUT</li><a>
-
-			<!--redirect to blog link-->
-			<li> <a onclick="location.href='http://blog.orangeapps.ph/'"  >NEWS</li><a>
-			<li> <a onclick="location.href='contact.php'"  >CONTACT US</li><a>
-			</ul>
-	
-			
-           
-		
-	
-	</div>
-</header>
-
-		<div class="slide" id="slidecontact1" data-slide="1" data-stellar-background-ratio="2">
-			
-			<div id="homeText">
-				<p id="homeTextHeader">
-
-					CONTACT US
-
-				</p>
-				
-				
-</p>		
-			</div>
-
-			<!--every slide contains down button for next page-->
-			
-		</div>
+        <br><br><br>
+  
+    
+    
+	  
+    </section>
+    </center>
+  
+        
+  </div>  </div>  </div>  </div> </div> </div> 
+        
+        
+        
+        
+    
+    <div id="work" class="section white">
+      <div class="fixed-container">
+        <div class="content">
+        <br>  <br><br><center>
 
 
-<!--=======================================================================WHAT WE DO=========================================================================-->
+        <center>
 
-	<div class="slide" id="slideabout2" data-slide="2" data-stellar-background-ratio="1">
-
-		<div id="pisaraMessage">We'd love to hear from you  </div><br>
-		<p id="pisaraSubtitle">Email <br><br><span id="pisaraNames">info@orangeapps.ph</span> <br><br> Contact Us<br><br><span id="pisaraNames">0939-474-1244</span><br><br> 
-
- </p>
+<br/>
 
 
-</br>
+<center>
+   
+ <div class="panel panel-default" style="width: 600px">
+     <div class="panel-body">
+         <h1>We're excited to hear from you</h1>
+    <p>Mobile#:(+63)9394741244<br/>
+       Email:info@khawna.com</p>
+         <br>
+ @if(IsPost){
+        //send mail
+        var name= Request["customerName"];
+        var email = Request["customerEmail"];
+        var subject = Request["subject"];
+        var message = Request["message"];
+
+        WebMail.Send("info@khawna.com",subject,message,email);
+        <p>Thank you for your interest in KHAWNA. We will get back to you ASAP regarding your request.</p>
+    }else{
+      
+
+
+<form method="post">
+         <div class="form-group">
+          <p>
+           <input type="text" name="customerName" placeholder="Name" class="form-control"/><br/>
+           <input type="text" name="customerEmail" placeholder="Email" class="form-control"/><br/>
+           <input type="text" name="subject" placeholder="Subject" class="form-control"/><br/>
+           <textarea name="message"  rows="10" placeholder="Message" class="form-control"></textarea><br/>
+           <button type="submit" class="btn btn-warning">Send Mail</button>       
+          </p>   
+         </div>
+         </form>    
+    
+}
+        </div><!--end col-->
+</div><!--end row-->
 </div>
-
-</div></div>
-</div></div>
+</center>
 
 
-<div class="slide" id="slidecontact11" data-slide="1" data-stellar-background-ratio="2">
-	</div></div>
+           </center>
 
-	<div class="slides" id="slide6" data-slide="6" data-stellar-background-ratio="2">
-		<br>
-	</br>
-	</br>
+    </div></div>
 
-	<center>
-												<a href="home.html">
-	        			<img src="images/foo3.png" /></a>&nbsp;&nbsp;
-<a href="about.html" title="Scroll Top">
-	        			<img src="images/foo1.png" /></a> &nbsp;
+          </div></div>
 
+        </div>
+     <div id="work" class="section white">
+      <div class="fixed-container">
+        <div class="content">
+        
+       
+      
 
-<a href="http://blog.orangeapps.ph/" target="_blank" >
-	        			<img src="images/foo4.png" /></a>&nbsp;&nbsp;
+    <div class="footer">
+      <div class="fixed-container">
+        <hr> <br> <br> <br>
+          <div class="row">
+          <div class="empty col-md-2 col-sm-2 col-xs-12"></div>
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <h3><font color="#FB861D">Home</font></h3>
 
-<a href="contact.html" >
-	        			<img src="images/foo6.png" /></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/pages/OrangeApps/143345072475481"  >
-	        			<img src="images/foo7.png" /></a>
-					<br>			<br>				
-<Center><img  src="images/fo1.png"></center>
-	<a class="button" data-slide="1" title=""></a>
-			</div>
-		
+            <ul>
+              <li><a href="#">Enterprise</a></li>
+              <li><a href="#">Teach</a></li>
+              <li><a href="#">Courses</a></li>
+              <li><a href="#">Press</a></li>  
+              <li><a href="#">About</a></li>   
+              <li><a href="#">Contact</a></li>               
+            </ul>
 
+            <div class="clearfix"></div>
+          </div>
+          <div class="col-md-5 col-sm-5 col-xs-12">
+            <h3><font color="#FB861D">OrangeApps</font></h3>
+              <p>
+              Our Vision is to change the way the world learns and we believe that each and everyone of us has a vital role to make this country succesful and it all starts with you!
+              </p>
+            <div class="social-media">
+              <a href="https://www.facebook.com/pages/OrangeApps/143345072475481" data-toggle="tooltip" title="Facebook"><i class="icon-facebook"></i></a>
+              <a href="https://twitter.com/orangeappsph" data-toggle="tooltip" title="Twitter"><i class="icon-twitter"></i></a>
+              <a href="https://www.youtube.com/channel/UCjUGD4VoT0mD-s0j0dl8XIA" data-toggle="tooltip" title="Youtube"><i class="icon-youtube-sign"></i></a>
+              <a href="http://orangeapps.ph" data-toggle="tooltip" title="OrangeApps"><i class="icon-desktop"></i></a>
+              <a href="http://blog.orangeapps.ph/" data-toggle="tooltip" title="Orange Apps Blog"><i class="icon-globe"></i></a>
+              <a href="mailto:orangephils@gmail.com" data-toggle="tooltip" title="Email"><i class="icon-envelope"></i></a>
+            </div>
+            
+          </div>
+          <div class="empty col-md-2 col-sm-2 col-xs-12"></div>
+        </div>
+    
+      
+      <p class="copyright"> <a class="scroll-down" href="#home"><img src="img/up.png" align="right"></a>
+      Copyright© 2014 <a href="http://orangeapps.ph"><font color="#FB861D">OrangeApps Inc.</font></a> All rights reserved.
+      </p>
+    </div>
 
-
-</body>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="newjs/jquery-1.9.1.min.js"></script>
+    <script src="newjs/jquery.mixitup.min.js"></script>
+    <script src="newjs/bootstrap.min.js"></script>
+    <script src="newjs/init.js"></script>
+    <script src="newjs/cbpScroller.js"></script>
+    <script src="newjs/classie.js"></script>
+    <script src="newjs/modernizr.custom.js"></script>
+    <script src="newjs/lazyload.js"></script>
+    <script>
+      new cbpScroller( document.getElementById( 'cbp-so-scroller' ) );
+      $("img.lazy").lazyload({
+      effect : "fadeIn"
+      });
+    </script>
+  </body>
 </html>
