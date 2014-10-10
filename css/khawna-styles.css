@@ -110,7 +110,7 @@ padding-top:9px;
 }
 
 #cd-top-nav ul {
-  padding-top: 45px;
+  padding-top: 35px;
 }
 
 #cd-top-nav li {
@@ -120,14 +120,14 @@ padding-top:9px;
 #cd-top-nav a {
   padding: 10px;
   font-family: 'PT Sans', sans-serif;
-  color: #FFF;
+  color: #363636;
   font-size: 1.5em;
   text-transform: none;
   font-weight: 300;
 }
 
 #cd-top-nav a:hover {
-  background-color: #5a6a62;
+  background-color: #f39c12;
 }
 
 #cd-menu-trigger {
@@ -180,14 +180,16 @@ padding-top:9px;
 
 #home {
   color: #ffffff;
+  height:auto;
+  width:auto;
   padding-top: 130px;
   background-color: #e0e4cc;
-  background: url(../images/tempBg-1.jpg) top no-repeat;
+  background: url(../images/tempBg-1.jpg) fixed;
 }
 
 #home2 {
   color: #ffffff;
-  height: 400px;
+  height: 500px;
   padding-top: 130px;
   background-color: #e0e4cc;
   background: url(../images/teach.jpg)fixed;
@@ -198,10 +200,9 @@ padding-top:9px;
 
 #home3 {
   color: #ffffff;
-  height: 400px;
-  padding-top: 130px;
+ padding-top: 130px;
   background-color: #e0e4cc;
-  background: url(../images/aboutbg.jpg)fixed;
+  background: url(../images/11.png) top no-repeat;
   
   
   
