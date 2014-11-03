@@ -45,6 +45,9 @@ h2 {
   font-size: 2.9em;
   font-weight: 100;
   line-height: 1.33em;
+   -webkit-hyphens: manual;  
+    -moz-hyphens: manual;  
+    hyphens: manual; 
 }
 
 :hover{
@@ -281,6 +284,11 @@ padding-top:9px;
 #enterprise h2 {
   font-weight: 300;
   font-size: 22px;
+  text-align: center;
+ -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+          hyphens: auto;
+
 }
 
 #students h1,
