@@ -300,7 +300,12 @@ padding-top:9px;
   font-size: 3.5em;
 }
 
-
+#studentss h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 3.5em;
+   color: #adadad;
+}
 #students2 h1 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
