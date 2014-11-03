@@ -198,6 +198,17 @@ padding-top:9px;
   
 }
 
+#mobile {
+  color: #ffffff;
+  height: auto;
+  padding-top: 30px;
+  background-color: #e0e4cc;
+  background: url(../images/teach.jpg)fixed;
+  
+  
+  
+}
+
 #home3 {
   color: #ffffff;
  padding-top: 130px;
