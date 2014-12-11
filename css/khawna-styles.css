@@ -187,15 +187,16 @@ padding-top:9px;
   width:auto;
   padding-top: 130px;
   background-color: #e0e4cc;
-  background: url(../images/tempBg-1.jpg) fixed;
+  background: url(../images/tempBg-1.png) fixed;
 }
 
 #home2 {
   color: #ffffff;
   height: 500px;
+
   padding-top: 130px;
   background-color: #e0e4cc;
-  background: url(../images/teach.jpg)fixed;
+  background: url(../images/bg.jpg)fixed;
   
   
   
