@@ -26,7 +26,7 @@ body {
 }
 
 a {
-  color: #ff8f2b;
+  
   text-decoration: none;
 }
 
@@ -113,7 +113,7 @@ padding-top:9px;
 }
 
 #cd-top-nav ul {
-  padding-top: 35px;
+  padding-top: 32px;
 }
 
 #cd-top-nav li {
@@ -123,14 +123,23 @@ padding-top:9px;
 #cd-top-nav a {
   padding: 10px;
   font-family: 'PT Sans', sans-serif;
-  color: #363636;
+  color: auto;
+  font-size: 1.5em;
+  text-transform: none;
+  font-weight: 300;
+}
+
+#cd-top-nav a {
+  padding: 10px;
+  font-family: 'PT Sans', sans-serif;
+  color: auto;
   font-size: 1.5em;
   text-transform: none;
   font-weight: 300;
 }
 
 #cd-top-nav a:hover {
-  background-color: #f39c12;
+  background-color: transparent;
 }
 
 #cd-menu-trigger {
@@ -181,25 +190,95 @@ padding-top:9px;
   height: 360px;
 }
 
-#home {
-  color: #ffffff;
-  height:auto;
-  width:auto;
+#welcome2 {
+ color: #ffffff;
+  height: 320px;
+
   padding-top: 130px;
-  background-color: #e0e4cc;
-  background: url(../images/tempBg-1.png) fixed;
+  background-color: #439fe0;
+  
 }
 
-#home2 {
-  color: #ffffff;
+#testimonials {
+ color: #ffffff;
   height: 500px;
 
   padding-top: 130px;
   background-color: #e0e4cc;
-  background: url(../images/bg.jpg)fixed;
+  background: url(../images/bg22.jpg) ;
+}
+
+#ho2 {
+ color: #ffffff;
+  height: 500px;
+
+  padding-top: 130px;
+  background-color: #e0e4cc;
+  background: url(../images/bg22.jpg) ;
+}
+
+#welcome {
+  color: #ffffff;
+  height: 600px;
+
+  padding-top: 130px;
+  background-color: #e0e4cc;
+  background: url(../images/1.jpg)fixed;
+
+}
+
+#aboutvision {
+  color: #fff;
+  height: 220px;
+
+  padding-top: 130px;
+  background-color: #e67e22;
   
-  
-  
+
+}
+
+#welcomeabout {
+  color: #ffffff;
+  height: 250px;
+
+  padding-top: 130px;
+  background-color: #e0e4cc;
+  background: url(../images/2.jpg)fixed;
+
+}
+
+
+
+#contactus {
+  color: #ffffff;
+  height: 250px;
+
+  padding-top: 130px;
+  background-color: #e0e4cc;
+  background: url(../images/aboutbg.jpg)fixed;
+
+}
+
+
+
+#howit {
+  color: #ffffff;
+  height: 250px;
+
+  padding-top: 130px;
+  background-color: #e0e4cc;
+  background: url(../images/howit.jpg)fixed;
+
+}
+
+#features{
+  color: #ffffff;
+  height: 250px;
+
+  padding-top: 130px;
+  background-color: #e0e4cc;
+  background: url(../images/feature.jpg)fixed;
+
 }
 
 #mobile {
@@ -224,6 +303,8 @@ padding-top:9px;
 }
 
 
+
+
 #home h1 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 200;
@@ -237,11 +318,23 @@ padding-top:9px;
 #students {
   background-color: #fff;
     min-height: 110px;
+    margin-left: -25px;
 }
 
 #students2 {
-  background-color: #fff;
-    min-height: 110px;
+ background-color: #fff;
+  min-height: 110px;
+  margin-left: -50px;
+  margin-right: -50px;
+}
+
+#students3 {
+ background-color: #34495e;
+  color: #34495e;
+  height: 200px;
+
+  padding-top: 130px;
+
 }
 
 #teachers {
@@ -439,8 +532,8 @@ padding-top:9px;
 }
 
 #footer {
-  height: 190px;
-  background-color: #2c3e50;
+  height: 100px;
+  background-color: #fff;
 }
 
 #footer hr {
